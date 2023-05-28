@@ -4,8 +4,8 @@
 
 ## Dice
 
-<img src="ss1.png">
+<img src="ss1.png" width="400px">
 
 ## Click on any Dice and you can see change in both the Dice
 
-<img src="ss2.png">
+<img src="ss2.png" width="400px">
